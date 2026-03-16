@@ -62,7 +62,7 @@
 
 ### Prerequisites
 
-- **Node.js** 18+ installed
+- **Node.js** installed
 - A **Supabase** project with Auth enabled
 
 ### Installation
